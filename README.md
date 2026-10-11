@@ -39,7 +39,7 @@ Lokale ændringer i HACS' theme-fil kan overskrives ved opdatering. Gem derfor f
 
 ## Opdatering
 
-Repositoryet bruger foreløbig main-grenen uden releases. HACS kan hente nye commits; genindlæs themes og browseren efter opdatering.
+Temaet udgives med versionsnumre, fx v0.1.0, via GitHub Releases. Vælg en udgivet version i HACS; genindlæs themes og browseren efter opdatering. Maintainer: opdater RELEASE_NOTES.md og derefter VERSION (major.minor.patch). GitHub Actions opretter release og tag automatisk.
 
 ## Afprøvning
 
