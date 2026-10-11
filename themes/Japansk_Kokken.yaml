@@ -6,8 +6,9 @@ Japansk Kokken:
   disabled-text-color: '#969889'
   primary-background-color: '#e8e6db'
   secondary-background-color: '#eeeadd'
-  card-background-color: rgba(250,246,235,0.90)
-  ha-card-background: rgba(250,246,235,0.90)
+  card-background-color: rgba(250,246,235,0.68)
+  ha-card-background: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%, rgba(250,246,235,0.38)
+    100%)
   ha-card-border-color: rgba(106,117,91,0.22)
   divider-color: rgba(106,117,91,0.20)
   state-icon-color: '#78876e'
@@ -29,14 +30,17 @@ Japansk Kokken:
   warning-color: '#b58a48'
   success-color: '#6e8f64'
   info-color: '#708c91'
-  bubble-main-background-color: rgba(250,246,235,0.90)
-  bubble-secondary-background-color: '#e8e8d8'
+  bubble-main-background-color: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%, rgba(250,246,235,0.38)
+    100%)
+  bubble-secondary-background-color: rgba(120,135,110,0.16)
   bubble-accent-color: '#aa7058'
   bubble-icon-background-color: rgba(120,135,110,0.18)
   bubble-sub-button-background-color: rgba(120,135,110,0.16)
-  bubble-button-main-background-color: rgba(250,246,235,0.90)
-  bubble-button-background-color: rgba(120,135,110,0.22)
-  kitchen-card-background: rgba(250,246,235,0.90)
+  bubble-button-main-background-color: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68)
+    58%, rgba(250,246,235,0.38) 100%)
+  bubble-button-background-color: rgba(120,135,110,0.18)
+  kitchen-card-background: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%, rgba(250,246,235,0.38)
+    100%)
   kitchen-card-border: rgba(106,117,91,0.22)
   ha-card-border-radius: 16px
   ha-card-border-width: 1px
@@ -55,8 +59,9 @@ Japansk Kokken:
       disabled-text-color: '#969889'
       primary-background-color: '#e8e6db'
       secondary-background-color: '#eeeadd'
-      card-background-color: rgba(250,246,235,0.90)
-      ha-card-background: rgba(250,246,235,0.90)
+      card-background-color: rgba(250,246,235,0.68)
+      ha-card-background: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%, rgba(250,246,235,0.38)
+        100%)
       ha-card-border-color: rgba(106,117,91,0.22)
       divider-color: rgba(106,117,91,0.20)
       state-icon-color: '#78876e'
@@ -78,15 +83,21 @@ Japansk Kokken:
       warning-color: '#b58a48'
       success-color: '#6e8f64'
       info-color: '#708c91'
-      bubble-main-background-color: rgba(250,246,235,0.90)
-      bubble-secondary-background-color: '#e8e8d8'
+      bubble-main-background-color: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%,
+        rgba(250,246,235,0.38) 100%)
+      bubble-secondary-background-color: rgba(120,135,110,0.16)
       bubble-accent-color: '#aa7058'
       bubble-icon-background-color: rgba(120,135,110,0.18)
       bubble-sub-button-background-color: rgba(120,135,110,0.16)
-      bubble-button-main-background-color: rgba(250,246,235,0.90)
-      bubble-button-background-color: rgba(120,135,110,0.22)
-      kitchen-card-background: rgba(250,246,235,0.90)
+      bubble-button-main-background-color: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68)
+        58%, rgba(250,246,235,0.38) 100%)
+      bubble-button-background-color: rgba(120,135,110,0.18)
+      kitchen-card-background: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%, rgba(250,246,235,0.38)
+        100%)
       kitchen-card-border: rgba(106,117,91,0.22)
+      chip-background: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%, rgba(250,246,235,0.38)
+        100%)
+      chip-text-color: '#363b32'
     dark:
       primary-color: '#78876e'
       accent-color: '#aa7058'
@@ -95,8 +106,9 @@ Japansk Kokken:
       disabled-text-color: '#969889'
       primary-background-color: '#e8e6db'
       secondary-background-color: '#eeeadd'
-      card-background-color: rgba(250,246,235,0.90)
-      ha-card-background: rgba(250,246,235,0.90)
+      card-background-color: rgba(250,246,235,0.68)
+      ha-card-background: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%, rgba(250,246,235,0.38)
+        100%)
       ha-card-border-color: rgba(106,117,91,0.22)
       divider-color: rgba(106,117,91,0.20)
       state-icon-color: '#78876e'
@@ -118,12 +130,21 @@ Japansk Kokken:
       warning-color: '#b58a48'
       success-color: '#6e8f64'
       info-color: '#708c91'
-      bubble-main-background-color: rgba(250,246,235,0.90)
-      bubble-secondary-background-color: '#e8e8d8'
+      bubble-main-background-color: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%,
+        rgba(250,246,235,0.38) 100%)
+      bubble-secondary-background-color: rgba(120,135,110,0.16)
       bubble-accent-color: '#aa7058'
       bubble-icon-background-color: rgba(120,135,110,0.18)
       bubble-sub-button-background-color: rgba(120,135,110,0.16)
-      bubble-button-main-background-color: rgba(250,246,235,0.90)
-      bubble-button-background-color: rgba(120,135,110,0.22)
-      kitchen-card-background: rgba(250,246,235,0.90)
+      bubble-button-main-background-color: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68)
+        58%, rgba(250,246,235,0.38) 100%)
+      bubble-button-background-color: rgba(120,135,110,0.18)
+      kitchen-card-background: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%, rgba(250,246,235,0.38)
+        100%)
       kitchen-card-border: rgba(106,117,91,0.22)
+      chip-background: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%, rgba(250,246,235,0.38)
+        100%)
+      chip-text-color: '#363b32'
+  chip-background: linear-gradient(135deg, rgba(250,246,235,0.88) 0%, rgba(250,246,235,0.68) 58%, rgba(250,246,235,0.38)
+    100%)
+  chip-text-color: '#363b32'
